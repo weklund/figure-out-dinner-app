@@ -23,3 +23,9 @@ So imagine an app with a user model that takes in all your ingredients, and with
  
  This will be a flask backend api server with a Typescript/React frontend.
  Will host on AWS CloudFront and ECS
+ 
+ ## Discovery
+ 
+ 1. Recipe api? (AllRecipe)
+ 2. ingredient recognition model/dataset?
+ 3. Support and Performance issues with Camera API / Tensorflow.js 
